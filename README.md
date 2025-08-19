@@ -29,7 +29,7 @@ This Excel-based dashboard provides a detailed view of employee and department-w
 
 ## 📷 Dashboard Preview
 
-![Employee Dashboard](./emp_dep_insights.png)
+![Employee Dashboard](./for_fiverr1.png)
 
 ---
 
